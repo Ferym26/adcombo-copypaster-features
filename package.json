@@ -1,0 +1,40 @@
+{
+  "name": "Adcombo-copypaster-features",
+  "version": "0.1.0",
+  "description": "A template for a quick copy and clear excess.",
+  "keywords": [
+    "project",
+    "template",
+    "frontend",
+    "gulp"
+  ],
+  "scripts": {
+    "start": "gulp",
+    "production": "cross-env NODE_ENV=production gulp"
+  },
+  "repository": {
+    "type": "git",
+	"url": "git+ssh@github.com:Badalik/adcombo-copypaster-features.git"
+  },
+  "author": "Badalov Vitaliy <badaliki@yandex.ru> (https://github.com/Badalik)",
+  "bugs": {
+	"url": "https://github.com/Badalik/adcombo-copypaster-features/issues/",
+	"email": "cpt@csssr.com"
+  },
+  "homepage": "https://github.com/Badalik/adcombo-copypaster-features/",
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=2.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.0",
+    "babel-core": "^6.5.0",
+    "cross-env": "^2.0.0",
+    "gulp": "^3.9.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.0",
+    "gulp-uncss": "^1.0.6",
+    "require-dir": "^0.3.0"
+  }
+}
