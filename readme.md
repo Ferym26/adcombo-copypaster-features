@@ -30,5 +30,3 @@ npm run production
 
 В шаблоне предусмотрено что файлы css лежат в стандартной для таких файлов папке `styles`, но вы можете легко изменить
 папку в таске.
-
-## [Внеси свой вклад в развитие проекта!](https://github.com/Badalik/adcombo-copypaster-starter/blob/master/contributing.md)
