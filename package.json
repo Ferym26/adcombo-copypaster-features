@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-	"url": "git+ssh@github.com:Badalik/adcombo-copypaster-features.git"
+    "url": "git+ssh@github.com:Badalik/adcombo-copypaster-features.git"
   },
   "author": "Badalov Vitaliy <badaliki@yandex.ru> (https://github.com/Badalik)",
   "bugs": {
-	"url": "https://github.com/Badalik/adcombo-copypaster-features/issues/",
-	"email": "badaliki@yandex.ru"
+    "url": "https://github.com/Badalik/adcombo-copypaster-features/issues/",
+    "email": "badaliki@yandex.ru"
   },
   "homepage": "https://github.com/Badalik/adcombo-copypaster-features/",
   "engines": {
@@ -32,9 +32,10 @@
     "babel-core": "^6.5.0",
     "cross-env": "^2.0.0",
     "gulp": "^3.9.0",
-	"gulp-autoprefixer": "^3.1.0",
+    "gulp-autoprefixer": "^3.1.0",
     "gulp-cssnano": "^2.1.2",
     "gulp-if": "^2.0.0",
+    "gulp-jsbeautifier": "^2.0.3",
     "gulp-uncss": "^1.0.6",
     "require-dir": "^0.3.0"
   }
